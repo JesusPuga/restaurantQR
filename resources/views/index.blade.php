@@ -61,108 +61,48 @@
       <div class="card-columns">
         <div class="card" onclick="AddedMessage()">
           <a>
-          <img class="card-img-top probootstrap-animate" src="{{ url('images/img_1.jpg') }}" alt="Card image cap">
+          <img class="card-img-top probootstrap-animate" src="{{ url('images/img_1.jpeg') }}" alt="Card image cap">
           </a>
+          <div class="card-body">
+            <h5 class="card-title">Hamburguesas</h5>
+            <p class="card-text">Precio: $45</p>
+          </div>
         </div>
         <div class="card" onclick="AddedMessage()">
           <a>
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_2.jpg') }}" alt="Card image cap">
+            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_2.jpeg') }}" alt="Card image cap">
           </a>
+          <div class="card-body">
+            <h5 class="card-title">Agua de furtas (Litro)</h5>
+            <p class="card-text">Precio: $30</p>
+          </div>
         </div>
         <div class="card" onclick="AddedMessage()">
           <a>
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_3.jpg') }}" alt="Card image cap">
+            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_3.jpeg') }}" alt="Card image cap">
           </a>
+          <div class="card-body">
+            <h5 class="card-title">Tortas de pierna</h5>
+            <p class="card-text">Precio: $45</p>
+          </div>
         </div>
         <div class="card" onclick="AddedMessage()">
           <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_4.jpg') }}" alt="Card image cap">
+            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_4.jpeg') }}" alt="Card image cap">
           </a>
+          <div class="card-body">
+            <h5 class="card-title">Burritos</h5>
+            <p class="card-text">Precio: $25</p>
+          </div>
         </div>
         <div class="card" onclick="AddedMessage()">
           <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_5.jpg') }}" alt="Card image cap">
+            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_5.jpeg') }}" alt="Card image cap">
           </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_6.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_7.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_8.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_9.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_10.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_11.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_12.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_13.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_14.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_15.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_16.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_17.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_18.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_19.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_20.jpg') }}" alt="Card image cap">
-          </a>
-        </div>
-        <div class="card" onclick="AddedMessage()">
-          <a >
-            <img class="card-img-top probootstrap-animate" src="{{ url('images/img_21.jpg') }}" alt="Card image cap">
-          </a>
+          <div class="card-body">
+            <h5 class="card-title">Ingrediente extra</h5>
+            <p class="card-text">Precio: $15</p>
+          </div>
         </div>
       </div>  
 
